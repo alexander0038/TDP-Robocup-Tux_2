@@ -4,7 +4,7 @@
 #### Youtube: https://www.youtube.com/@Tux_2_gr
 
 ## General information about us:
-We are Tux_2, a team from Rahden, a small town in North Rhine-Westphalia near Bielefeld. Our team consists of **Alexander Belov (Software, Team Captain)**, **Toni Schürmann (Hardware)**, **Max Harting (Hardware)** and **Elia Sky Freichel ()**. We compete in the RoboCupJunior Soccer Entry League for the second time.
+We are Tux_2, a team from Rahden, a small town in North Rhine-Westphalia near Bielefeld. Our team consists of **Alexander Belov (Software, Team Captain)**, **Toni Schürmann (Hardware)**, **Max Harting (Hardware)** and **Elia Sky Freichel (Newcomer in Hardware)**. We compete in the RoboCupJunior Soccer Entry League for the second time.
 
 During our first time competing in RoboCup, we were separate teams: Tux_3 (Alexander and Henning) and Tux_4 (Toni and Max). Both teams made it into the top 5 and qualified for the German Open in Nuremberg. The competition in Nuremberg had strong opponents, so unfortunately we did not qualify for the European Championship.
 
@@ -28,6 +28,6 @@ However, these losses and wins did not make us lose motivation; instead, we merg
 -  Strategy: `/software/Strategy.md`
 
 #### Team:
-- Team Description Paper: `/Tux_3_GO2026_tdp.pdf`
-- Team picture: `/Tux_3.png`
-- Team poster: `/Tux_3_GO2026_poster.pdf`
+- Team Description Paper: `/Tux_2_GO2026_tdp.pdf`
+- Team picture: `/Tux_2.png`
+- Team poster: `/Tux_2_GO2026_poster.pdf`
